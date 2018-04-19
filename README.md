@@ -5,7 +5,7 @@
 <img src="https://github.com/xiaohuoni/react-hexagon-progress/raw/master/preview.png" width=300 />
 
 ## Getting Started
-
+源码在src，还没整理，下面的东西不能用哈
 Install
 
 ```bash
